@@ -1,3 +1,7 @@
-# a heading
+# heading1
 
-and some text
+## heading2
+
+### heading3
+
+some text
