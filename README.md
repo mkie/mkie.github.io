@@ -8,12 +8,22 @@ some text *italic*, **bold**, ***bold & italic***
 
 - list1
 - list2
+    - list2.1
+    - list2.2
 - list3
 
-----
+1. one
+7. two
+4. three
 
-`code`
+---
+
+`code stuff`
 
 <http://github.com>
 
 [github](github.com)
+
+> a quote
+> is a quote
+
