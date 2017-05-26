@@ -4,7 +4,7 @@
 
 ### heading3
 
-some text *Kursiv*, **fett**, ***fett und kursiv***
+some text *italic*, **bold**, ***bold & italic***
 
 - list1
 - list2
@@ -14,6 +14,6 @@ some text *Kursiv*, **fett**, ***fett und kursiv***
 
 `code`
 
-<github.com>
+<http://github.com>
 
 [github](github.com)
