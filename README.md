@@ -18,14 +18,16 @@ some text *italic*, **bold**, ***bold & italic***
 
 ---
 
-`code stuff`
-
 <http://github.com>
 
 [github](github.com)
+
+`code stuff`
+
+    more
+    code
 
 > a quote
 > is a quote
 
 added stuff 2017-05-30
-
