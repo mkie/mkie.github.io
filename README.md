@@ -22,7 +22,7 @@ some text *italic*, **bold**, ***bold & italic***
 
 [github](github.com)
 
-`code stuff`
+`some code`
 
     more
     code
