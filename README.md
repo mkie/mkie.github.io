@@ -30,4 +30,3 @@ some text *italic*, **bold**, ***bold & italic***
 > a quote
 > is a quote
 
-added stuff 2017-05-30
