@@ -18,7 +18,7 @@ some text *italic*, **bold**, ***bold & italic***
 
 ---
 
-</seite2/index.md>
+<seite2/index.md>
 
 <http://github.com>
 
