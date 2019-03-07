@@ -20,6 +20,8 @@ some text *italic*, **bold**, ***bold & italic***
 
 <seite2/index.md>
 
+<seite2>
+
 <http://github.com>
 
 [github](github.com)
