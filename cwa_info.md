@@ -21,12 +21,13 @@ sich heraustellen, dass ihr Benutzer infiziert ist - alle Kontaktpersonen des Be
 Wenn der Benutzer dem zugestimmt hat nutzt die CWA die Bluetooth-Funktion eines Smartphones und sendet regelmässig
 kurze Funksignale (Broadcast Beacons / BB). Ausserdem registriert sie die BBs von anderen App-Benutzern und merkt
 sich gesendete und empfangene BBs für einen Zeitraum von 14 Tagen. Die BBs werden dabei zufällig generiert
-und in regelmässigen Abständen gewechselt. Sie enthalten **keine** Informationen über die Identität oder den
-Aufenthaltsort des App-Benutzers und lassen auch keine Rückschlüsse auf den Benutzer zu!
+und in regelmässigen Abständen gewechselt. **Sie enthalten keine Informationen über die Identität oder den
+Aufenthaltsort des App-Benutzers und lassen auch keine Rückschlüsse auf den Benutzer zu!**
 
 Sollte nun ein Benutzer der CWA (z.B. weil er Krankheitssymptome hat) positiv getestet werden, also infiziert
 sein, können die von seiner CWA *gesendeten* BBs auf einen Server hochgeladen werden. Dort liegen dann für einen
 bestimmten Zeitraum die gesendeten BBs aller als infiziert getesteten Personen, die die CWA verwenden.
+**Auch diese BBs enthalten keine Informationen darüber, wer sich wo wie lange mit wem aufgehalten hat!**
 
 Alle CWAs können nun die auf dem Server liegenden gesendeten BBs mit den von ihnen empfangenen vergleichen. Wenn
 eine Übereinstimmung festgestellt wird, heisst das, dass ein Kontakt mit einer infizierten Person stattgefunden hat.
@@ -58,11 +59,12 @@ und nur minimal Energie für das Empfangen benötigt.
 **Nein**.
 
 ### Wird es zu Fehlalarmen kommen?
-**Ja, ziemlich sicher**. Bluetooth ist nur bedingt geeignet, um Abstände zu messen, da dies von vielen Faktoren
-abhängt (Signalstärke, Richtwirkung der Antennen in den Smartphones). Ausserdem wird natürlich nicht erkannt,
-ob sich zwischen zwei Smartphones eine Barriere (Wand, Scheibe) befindet. Die CWA kann deshalb nur eine Warnung
-erzeugen. Ob tatsächlich eine Infektion stattgefunden hat, kann nur ein Test klären. Dennoch hoffen Experten,
-dass Infektionen so früher erkannt werden können. Wie gut das tatsächlich funktioniert, wird sich zeigen.
+**Ja, ziemlich sicher**. Bluetooth ist leider nur bedingt geeignet, um Abstände zu messen, da dies von vielen
+Faktoren abhängt (Signalstärke, Richtwirkung der Antennen in den Smartphones etc.). Ausserdem wird natürlich nicht
+erkannt, ob sich zwischen zwei Smartphones eine Barriere (Wand, Scheibe) befindet. Die CWA kann deshalb nur eine
+*Warnung* erzeugen. Ob tatsächlich eine Infektion stattgefunden hat, kann nur ein Test klären. Dennoch hoffen
+Experten, dass Infektionen durch den Einsatz der CWA früher erkannt werden können. Wie gut das dann tatsächlich
+funktioniert, wird sich zeigen.
 
 
 ## Mehr Informationen
