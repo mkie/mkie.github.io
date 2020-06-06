@@ -1,1 +1,3 @@
-this is file index.md
+# Index
+
+* [Infos zur Corona Warn App](cwa_info.md)
