@@ -15,9 +15,9 @@ sich heraustellen, dass ihr Benutzer infiziert ist - alle Kontaktpersonen des Be
 
 ### Wie funktioniert die CWA?
 
-Die CWA nutzt die Bluetooth-Funktion eines Smartphones und sendet - wenn der Benutzer dem zugestimmt hat -
-regelmässig kurze Funksignale (Beacons). Ausserdem registriert sie die Funksignale von anderen App-Benutzern
-und merkt sich diese.
+Wenn der Benutzer dem zugestimmt nutzt die CWA die Bluetooth-Funktion eines Smartphones und sendet regelmässig
+kurze Funksignale (Beacons). Ausserdem registriert sie die Funksignale von anderen App-Benutzern und merkt sich
+diese. Die Funksignale werden zufällig generiert und in regelmässigen Abständen gewechselt.
 
 ## Fragen und Antworten
 
@@ -40,7 +40,7 @@ noch gespeichert.
 und nur minimal Energie für das Empfangen benötigt.
 
 ### Ist meine Privatsphäre in Gefahr?
-
+**Nein.**
 
 
 ## Mehr Informationen
