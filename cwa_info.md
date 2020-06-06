@@ -31,8 +31,9 @@ bestimmten Zeitraum die gesendeten BBs aller als infiziert getesteten Personen, 
 
 Die CWAs aller Benutzer vergleichen nun die auf dem Server liegenden gesendeten BBs mit den von ihnen empfangenen. Wenn
 eine Übereinstimmung festgestellt wird, heisst das, dass ein Kontakt mit einer infizierten Person stattgefunden hat.
-Die CWA informiert ihren Benutzer darüber. Sinnvollerweise sollte er sich dann testen lassen und ggf. in Quarantäne
-begeben. Dadurch kann verhindert werden, dass weitere Personen infiziert werden. **Die CWA schützt also nicht
+Die CWA informiert ihren Benutzer darüber (dabei kann sie eine Risikobewertung vornehmen).
+Sinnvollerweise sollte er sich dann testen lassen und sich ggf. in Quarantäne begeben.
+Dadurch kann verhindert werden, dass weitere Personen infiziert werden. **Die CWA schützt also nicht
 den Benutzer selbst sondern alle seine zukünftigen Kontakte!**
 
 ## Fragen und Antworten
