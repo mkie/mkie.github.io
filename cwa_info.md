@@ -15,6 +15,20 @@ sich heraustellen, dass ihr Benutzer infiziert ist - alle Kontaktpersonen des Be
 
 ### Wie funktioniert die CWA?
 
+Die CWA nutzt die Bluetooth-Funktion eines Smartphones und sendet - wenn der Benutzer dem zugestimmt hat -
+regelmässig kurze Funksignale (Beacons). Ausserdem registriert sie die Funksignale von anderen App-Benutzern
+und merkt sich diese.
+
 ## Fragen und Antworten
 
+### Wird meine (GPS-)Position gespeichert?
+Nein, die CWA verwendt nur Bluetooth. Positionsdaten (wo bedinde mich) werden von der CWA weder verwendet
+noch gespeichert.
+
 ### Warum Google und Apple?
+x
+
+### Wird mein Akku schneller leer wenn ich die CWA verwende?
+Nein. Die App verwendet den BTLE Standard (Bluetooth Low Energy), der nur so wenig Energie für das Senden
+und nur minimal Energie für das Empfangen benötigt.
+
