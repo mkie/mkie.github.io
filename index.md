@@ -22,12 +22,6 @@ some text *italic*, **bold**, ***bold & italic***
 
 [file two.md](two.md)
 
-<two.md>
-
-<seite2/index.md>
-
-<seite2/>
-
 <http://github.com>
 
 [github](github.com)
