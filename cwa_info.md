@@ -55,7 +55,14 @@ noch gespeichert.
 und nur minimal Energie für das Empfangen benötigt.
 
 ### Ist meine Privatsphäre in Gefahr?
-**Nein.**
+**Nein**.
+
+### Wird es zu Fehlalarmen kommen?
+**Ja, ziemlich sicher**. Bluetooth ist nur bedingt geeignet, um Abstände zu messen, da dies von vielen Faktoren
+abhängt (Signalstärke, Richtwirkung der Antennen in den Smartphones). Ausserdem wird natürlich nicht erkannt,
+ob sich zwischen zwei Smartphones eine Barriere (Wand, Scheibe) befindet. Die CWA kann deshalb nur eine Warnung
+erzeugen. Ob tatsächlich eine Infektion stattgefunden hat, kann nur ein Test klären. Dennoch hoffen Experten,
+dass Infektionen so früher erkannt werden können. Wie gut das tatsächlich funktioniert, wird sich zeigen.
 
 
 ## Mehr Informationen
