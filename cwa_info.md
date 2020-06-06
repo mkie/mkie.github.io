@@ -15,7 +15,7 @@ In einer Pandemie ist die möglichst rasche Zurückverfolgung der Kontakte einer
 Bedeutung, denn jede Kontaktperson einer IP kann von dieser bereits angesteckt worden sein ohne es zu
 wissen. Bislang wird versucht, die Kontaktpersonen durch Befragung der IP herauszufinden - das ist umständlich,
 fehleranfällig und zeitaufwändig. Mit der CWA soll das vereinfacht werden. Die Idee: Eine App kann - sollte
-sich heraustellen, dass ihr Benutzer infiziert ist - alle Kontaktpersonen des Benutzers warnen.
+sich herausstellen, dass ihr Benutzer infiziert ist - alle Kontaktpersonen des Benutzers warnen.
 
 ### Wie funktioniert die CWA?
 Wenn der Benutzer dem zugestimmt hat nutzt die CWA die Bluetooth-Funktion eines Smartphones und sendet regelmässig
@@ -29,9 +29,9 @@ sein, können die von seiner CWA *gesendeten* BBs auf einen Server hochgeladen w
 bestimmten Zeitraum die gesendeten BBs aller als infiziert getesteten Personen, die die CWA verwenden.
 **Auch diese BBs enthalten keine Informationen darüber, wer sich wo wie lange mit wem aufgehalten hat!**
 
-Alle CWAs können nun die auf dem Server liegenden gesendeten BBs mit den von ihnen empfangenen vergleichen. Wenn
+Die CWAs aller Benutzer vergleichen nun die auf dem Server liegenden gesendeten BBs mit den von ihnen empfangenen. Wenn
 eine Übereinstimmung festgestellt wird, heisst das, dass ein Kontakt mit einer infizierten Person stattgefunden hat.
-Die CWA informiert den Benutzer darüber. Sinnvollerweise sollte er sich dann testen lassen und ggf. in Quarantäne
+Die CWA informiert ihren Benutzer darüber. Sinnvollerweise sollte er sich dann testen lassen und ggf. in Quarantäne
 begeben. Dadurch kann verhindert werden, dass weitere Personen infiziert werden. **Die CWA schützt also nicht
 den Benutzer selbst sondern alle seine zukünftigen Kontakte!**
 
