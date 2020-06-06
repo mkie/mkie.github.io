@@ -2,7 +2,7 @@
 
 *Work in progress - Seite befindet sich im Aufbau*
 
-Diese Seite will einige der gängigen Fragen zur Corona Warn App (CWA) beantworten, die immer wieder gestellt werden.
+Diese Seite soll einige der gängigen Fragen zur Corona Warn App (CWA) beantworten, die immer wieder gestellt werden.
 
 Ich bemühe mich, den Sachverhalt so einfach wie möglich darzustellen. An der einen oder anderen Stelle kann es daher
 sein, dass meine Darstellung nicht 100%ig korrekt ist. Wer alles noch genauer wissen möchte, dem empfehle ich die am
@@ -18,7 +18,7 @@ fehleranfällig und zeitaufwändig. Mit der CWA soll das vereinfacht werden. Die
 sich heraustellen, dass ihr Benutzer infiziert ist - alle Kontaktpersonen des Benutzers warnen.
 
 ### Wie funktioniert die CWA?
-Wenn der Benutzer dem zugestimmt nutzt die CWA die Bluetooth-Funktion eines Smartphones und sendet regelmässig
+Wenn der Benutzer dem zugestimmt hat nutzt die CWA die Bluetooth-Funktion eines Smartphones und sendet regelmässig
 kurze Funksignale (Broadcast Beacons / BB). Ausserdem registriert sie die BBs von anderen App-Benutzern und merkt
 sich gesendete und empfangene BBs für einen Zeitraum von 14 Tagen. Die BBs werden dabei zufällig generiert
 und in regelmässigen Abständen gewechselt. Sie enthalten **keine** Informationen über die Identität oder den
@@ -26,12 +26,13 @@ Aufenthaltsort des App-Benutzers und lassen auch keine Rückschlüsse auf den Be
 
 Sollte nun ein Benutzer der CWA (z.B. weil er Krankheitssymptome hat) positiv getestet werden, also infiziert
 sein, können die von seiner CWA *gesendeten* BBs auf einen Server hochgeladen werden. Dort liegen dann für einen
-bestimmten Zeitraum die gesendeten BBs aller als infiziert getesteten Personen.
+bestimmten Zeitraum die gesendeten BBs aller als infiziert getesteten Personen, die die CWA verwenden.
 
-Alle CWAs können nun die auf dem Server liegenden BBs mit den von ihnen empfangenen vergleichen. Wenn eine
-Übereinstimmung festgestellt wird, heisst das, dass ein Kontakt mit einer infizierten Person stattgefunden hat.
+Alle CWAs können nun die auf dem Server liegenden gesendeten BBs mit den von ihnen empfangenen vergleichen. Wenn
+eine Übereinstimmung festgestellt wird, heisst das, dass ein Kontakt mit einer infizierten Person stattgefunden hat.
 Die CWA informiert den Benutzer darüber. Sinnvollerweise sollte er sich dann testen lassen und ggf. in Quarantäne
-begeben.
+begeben. Dadurch kann verhindert werden, dass weitere Personen infiziert werden. **Die CWA schützt also nicht
+den Benutzer selbst sondern alle seine zukünftigen Kontakte!**
 
 ## Fragen und Antworten
 
