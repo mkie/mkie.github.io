@@ -25,14 +25,14 @@ und in regelmässigen Abständen gewechselt. **Sie enthalten keine Informationen
 Aufenthaltsort des App-Benutzers und lassen auch keine Rückschlüsse auf den Benutzer zu!**
 
 Sollte nun ein Benutzer der CWA (z.B. weil er Krankheitssymptome hat) positiv getestet werden, also infiziert
-sein, können die von seiner CWA *gesendeten* BBs auf einen Server hochgeladen werden. Dort liegen dann für einen
+sein, können die von seiner CWA *gesendeten* BBs auf einen Server hochgeladen werden (*Verfahren?*). Dort liegen dann für einen
 bestimmten Zeitraum die gesendeten BBs aller als infiziert getesteten Personen, die die CWA verwenden.
 **Auch diese BBs enthalten keine Informationen darüber, wer sich wo wie lange mit wem aufgehalten hat!**
 
 Die CWAs aller Benutzer vergleichen nun die auf dem Server liegenden gesendeten BBs mit den von ihnen empfangenen. Wenn
 eine Übereinstimmung festgestellt wird, heisst das, dass ein Kontakt mit einer infizierten Person stattgefunden hat.
 Die CWA informiert ihren Benutzer darüber (dabei kann sie eine Risikobewertung vornehmen).
-Sinnvollerweise sollte er sich dann testen lassen und sich ggf. in Quarantäne begeben.
+Sinnvollerweise sollte er sich dann testen lassen (*Wie ist der genaue Ablauf?*) und sich ggf. in Quarantäne begeben.
 Dadurch kann verhindert werden, dass weitere Personen infiziert werden. **Die CWA schützt also nicht
 den Benutzer selbst sondern alle seine zukünftigen Kontakte!**
 
