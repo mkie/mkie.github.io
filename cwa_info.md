@@ -56,7 +56,11 @@ noch gespeichert.
 und nur minimal Energie für das Empfangen benötigt.
 
 ### Ist meine Privatsphäre in Gefahr?
-**Nein**.
+**Nein**. Wie oben beschrieben: Weder auf dem Smartphones noch auf dem Server werden Daten gespeichert, die
+eine Zuordnung zu Benutzern zulassen. Weil der Abgleich der BBs lokal auf den Smartphones der Benutzer stattfindet,
+hat niemand eine Information darüber, wer wann mit wem Kontakt hatte. Das ist übrigens der Vorteil dieser
+**dezentralen Lösung** gegenüber einer zentralen Lösung, bei der der Abgleich von einer zentralen Stelle
+durchgeführt wird.
 
 ### Wird es zu Fehlalarmen kommen?
 **Ja, ziemlich sicher**. Bluetooth ist leider nur bedingt geeignet, um Abstände zu messen, da dies von vielen
