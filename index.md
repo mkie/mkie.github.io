@@ -20,6 +20,8 @@ some text *italic*, **bold**, ***bold & italic***
 
 ---
 
+[file two.md](two.md)
+
 <two.md>
 
 <seite2/index.md>
