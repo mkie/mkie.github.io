@@ -32,8 +32,8 @@ Ohne diese Grundfunktionen wäre die Entwicklung einer sinnvoll funktionierenden
 eine App auf iOS sonst nur senden und empfangen während sie im Vordergrund läuft - mit entsprechend hohem
 Energieverbrauch und mangelnder Sicherheit).
 
-Die CWA wird übrigens **nicht** von Google oder Apple entwickelt sondern von Entwicklerteams in den jeweiligen Ländern.
-In Deutschland sind dies SAP und die Telekom.
+Die CWA wird übrigens **nicht** von Google oder Apple entwickelt sondern von Entwicklerteams in den jeweiligen
+Ländern (in Deutschland sind dies SAP und die Telekom).
 
 ### Wird mein Akku schneller leer wenn ich die CWA verwende?
 **Nein**. Die CWA verwendet den BTLE Standard (Bluetooth Low Energy), der nur wenig Energie für das Senden
