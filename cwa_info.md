@@ -48,7 +48,7 @@ Die CWA wird übrigens **nicht** von Google oder Apple entwickelt sondern von En
 Ländern (in Deutschland sind dies SAP und die Telekom).
 
 ### Wird meine (GPS-)Position gespeichert?
-**Nein**. Die CWA verwendt nur Bluetooth. Positionsdaten (wo bedinde mich) werden von der CWA weder verwendet
+**Nein**. Die CWA verwendt nur Bluetooth. Positionsdaten ("Wo befinde ich mich?") werden von der CWA weder verwendet
 noch gespeichert.
 
 ### Wird mein Akku schneller leer wenn ich die CWA verwende?
