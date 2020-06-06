@@ -22,13 +22,20 @@ und merkt sich diese.
 ## Fragen und Antworten
 
 ### Wird meine (GPS-)Position gespeichert?
-Nein, die CWA verwendt nur Bluetooth. Positionsdaten (wo bedinde mich) werden von der CWA weder verwendet
+**Nein**. Die CWA verwendt nur Bluetooth. Positionsdaten (wo bedinde mich) werden von der CWA weder verwendet
 noch gespeichert.
 
 ### Warum Google und Apple?
-x
+Zunächst: Google und Apple stellen nur die Grundfunktionen für das Senden und Empfangen der Bluetooth-Signale
+zur Verfügung und haben diese seit kurzem (Mai 2020) in ihre Betriebssysteme Android bzw. iOS integriert.
+Ohne diese Grundfunktionen wäre die Entwicklung einer sinnvoll funktionierenden CWA nicht möglich (z.B. könnte
+eine App auf iOS sonst nur senden und empfangen während sie im Vordergrund läuft - mit entsprechend hohem
+Energieverbrauch und mangelnder Sicherheit).
+
+Die CWA wird übrigens **nicht** von Google oder Apple entwickelt sondern von Entwicklerteams in den jeweiligen Ländern.
+In Deutschland sind dies SAP und die Telekom.
 
 ### Wird mein Akku schneller leer wenn ich die CWA verwende?
-Nein. Die App verwendet den BTLE Standard (Bluetooth Low Energy), der nur so wenig Energie für das Senden
+**Nein**. Die CWA verwendet den BTLE Standard (Bluetooth Low Energy), der nur wenig Energie für das Senden
 und nur minimal Energie für das Empfangen benötigt.
 
