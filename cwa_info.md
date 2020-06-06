@@ -1,4 +1,4 @@
-# Infos zur Coron-Warn-App
+# Infos zur Corona-Warn-App
 
 *Work in progress - Seite befindet sich im Aufbau*
 
