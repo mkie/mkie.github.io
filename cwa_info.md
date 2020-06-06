@@ -49,7 +49,7 @@ Die CWA wird übrigens **nicht** von Google oder Apple entwickelt sondern von En
 Ländern (in Deutschland sind dies SAP und die Telekom).
 
 ### Wird meine (GPS-)Position gespeichert?
-**Nein**. Die CWA verwendt nur Bluetooth. Positionsdaten ("Wo befinde ich mich?") werden von der CWA weder verwendet
+**Nein**. Die CWA verwendet nur Bluetooth. Positionsdaten ("Wo befinde ich mich?") werden von der CWA weder verwendet
 noch gespeichert.
 
 ### Wird mein Akku schneller leer wenn ich die CWA verwende?
@@ -61,7 +61,7 @@ und nur minimal Energie für das Empfangen benötigt.
 eine Zuordnung zu Benutzern zulassen. Weil der Abgleich der BBs lokal auf den Smartphones der Benutzer stattfindet,
 hat niemand eine Information darüber, wer wann mit wem Kontakt hatte. Das ist übrigens der Vorteil dieser
 **dezentralen Lösung** gegenüber einer zentralen Lösung, bei der der Abgleich von einer zentralen Stelle
-durchgeführt wird.
+durchgeführt würde.
 
 ### Wird es zu Fehlalarmen kommen?
 **Ja, ziemlich sicher**. Bluetooth ist leider nur bedingt geeignet, um Abstände zu messen, da dies von vielen
