@@ -1,8 +1,8 @@
-# Infos zur Corona Warn App
+# Infos zur Coron-Warn-App
 
 *Work in progress - Seite befindet sich im Aufbau*
 
-Diese Seite soll einige der gängigen Fragen zur Corona Warn App (CWA) beantworten, die immer wieder gestellt werden.
+Diese Seite soll einige der gängigen Fragen zur Corona-Warn-App (CWA) beantworten, die immer wieder gestellt werden.
 
 Ich bemühe mich, den Sachverhalt so einfach wie möglich darzustellen. An der einen oder anderen Stelle kann es daher
 sein, dass meine Darstellung nicht 100%ig korrekt ist. Wer alles noch genauer wissen möchte, dem empfehle ich die am
@@ -77,6 +77,4 @@ Hier gibt's noch mehr Informationen zur CWA:
 - [Exposure Notifications: Using technology to help public health authorities fight COVID‑19 (en)](https://www.google.com/covid19/exposurenotifications/)
 - [Overview of COVID-19 Contact Tracing (en) bei Google](https://blog.google/documents/66/Overview_of_COVID-19_Contact_Tracing_Using_BLE_1.pdf)
 - [Comic "Leben und Freiheit schützen - COVID-19 und Big Brother ein Schnippchen schlagen" vom DP3T-Projekt](https://github.com/DP-3T/documents/blob/master/public_engagement/cartoon/de/comic-de.pdf)
-- []()
-
-
+- [Github-Seite der CWA für Deutschland](https://github.com/corona-warn-app)
