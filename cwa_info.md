@@ -20,7 +20,7 @@ sich herausstellen, dass ihr Benutzer infiziert ist - alle Kontaktpersonen des B
 ### Wie funktioniert die CWA?
 Wenn der Benutzer dem zugestimmt hat nutzt die CWA die Bluetooth-Funktion eines Smartphones und sendet regelmässig
 kurze Funksignale (Broadcast Beacons / BB). Ausserdem registriert sie die BBs von anderen App-Benutzern und merkt
-sich gesendete und empfangene BBs für einen Zeitraum von 14 Tagen. Die BBs werden dabei zufällig generiert
+sich gesendete und empfangene BBs für einen Zeitraum von 14 Tagen. Die BBs werden dabei generiert
 und in regelmässigen Abständen gewechselt. **Sie enthalten keine Informationen über die Identität oder den
 Aufenthaltsort des App-Benutzers und lassen auch keine Rückschlüsse auf den Benutzer zu!**
 
@@ -53,8 +53,7 @@ Ländern (in Deutschland sind dies SAP und die Telekom).
 noch gespeichert.
 
 ### Wird mein Akku schneller leer wenn ich die CWA verwende?
-**Nein**. Die CWA verwendet den BTLE Standard (Bluetooth Low Energy), der nur wenig Energie für das Senden
-und nur minimal Energie für das Empfangen benötigt.
+**Nein**. Die CWA verwendet den BTLE Standard (Bluetooth Low Energy), der nur sehr wenig Energie benötigt.
 
 ### Ist meine Privatsphäre in Gefahr?
 **Nein**. Wie oben beschrieben: Weder auf dem Smartphones noch auf dem Server werden Daten gespeichert, die
